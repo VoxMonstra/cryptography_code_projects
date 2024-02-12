@@ -1,4 +1,4 @@
-These c++ programs use command line arguments. If the program uses cipher text as command line arguments, spaces are optional. 
+These c++ programs decipher Caeser and Vegenere ciphers. If the program uses cipher text as command line arguments, spaces are optional. 
 
 -correlation_of_frequencies.cpp - 
 		- Only ciphertext required for cmd arguments (spaces optional).
